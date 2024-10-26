@@ -7,7 +7,8 @@ public class Main {
         System.out.println("Hello 3");
         System.out.println("Hello 4");
         System.out.println("Hello 5");
-        System.out.println("mast 6");
+        System.out.println("mast 6");  System.out.println("push 6");
+
 
 
 
